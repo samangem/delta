@@ -146,13 +146,15 @@ This document provides guidelines for the entire team (Product Manager, Business
 - [ ] Security considerations are 
 
 
-## 🧪 Quality Assurance (QA) Instructions
+## Quality Assurance (QA) Instructions
 
 ### Responsibilities
 - Test planning and strategy
 - Test case design and execution
 - Bug reporting and tracking
 - Quality metrics and reporting
+- Implementing test automation
+- Maintaining automation testcases
 
 ### AI-Assisted Tasks
 1. **Test Case Generation**
@@ -186,13 +188,13 @@ This document provides guidelines for the entire team (Product Manager, Business
    ```
 
 ### Best Practices
-- ✅ Validate AI-generated test cases against requirements
-- ✅ Execute AI-generated tests and verify results
-- ✅ Use AI to identify missing test scenarios
-- ✅ Combine AI suggestions with domain expertise
-- ❌ Don't rely solely on AI-generated test coverage
-- ❌ Don't skip manual exploratory testing
-- ❌ Don't assume AI understands all business rules
+-  Validate AI-generated test cases against requirements
+-  Execute AI-generated tests and verify results
+-  Use AI to identify missing test scenarios
+-  Combine AI suggestions with domain expertise
+-  Don't rely solely on AI-generated test coverage
+-  Don't skip manual exploratory testing
+-  Don't assume AI understands all business rules
 
 ### Testing Checklist
 - [ ] All acceptance criteria are covered
